@@ -1,0 +1,16 @@
+{
+  "name": "home-work-9",
+  "version": "1.0.0",
+  "description": "Needed modules for this application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Muss",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3"
+  }
+}
